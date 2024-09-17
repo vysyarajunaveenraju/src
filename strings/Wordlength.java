@@ -1,3 +1,4 @@
+package strings;
 public class Wordlength {
     public static void main(String[] args) {
         String sentence = "I am Naveen raju Vysyaraju";
